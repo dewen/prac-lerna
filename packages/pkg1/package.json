@@ -1,6 +1,6 @@
 {
   "name": "pkg1",
-  "version": "0.2.0-alpha.0",
+  "version": "0.2.1-beta.0",
   "description": "",
   "main": "index.js",
   "scripts": {
